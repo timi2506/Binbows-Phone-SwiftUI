@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Binbows Phone
 //
-//  Created by Tim Schuchardt on 08.12.2024.
+//  Created by Tim on 08.12.2024.
 //
 
 import SwiftUI
